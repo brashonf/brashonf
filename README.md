@@ -1,4 +1,4 @@
-### Welcome To The Dream House
+### Welcome To The Data Dream House
 <h1 align="center">Hi 👋, I'm Brashon</h1>
 <h3 align="center">Aspiring Health Data Scientist</h3>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.com/brashonf](GitHub.com/brashonf)
 
-- 📫 How to reach me **brashonford@gmail.com**
+- 📫 How to reach me **brashonford@gmail.com/linkedin.com/brashon-ford**
 
 - ⚡ Fun fact **I love anime, and I just discovered fashion data science which is my new obsession**
 
