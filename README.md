@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brashonf&label=Profile%20views&color=0e75b6&style=flat" alt="brashonf" /> </p>
 
-- 🔭 I’m currently working on **Public Health Datasets that include: Epidemiology, Psychiatric Epidemiology, and Clinical Research.**
+- 🔭 I’m currently working on **Database Management w/SQL, Microsoft Azure & Practice Datasets for Personal Projects.**
 
 - 🌱 I’m currently obtaining **My Masters in Data Science with a Health Analytics concentration**
 
