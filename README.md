@@ -1,24 +1,33 @@
-### Welcome To The Data Dream House
-<h1 align="center">Hi 👋, I'm Brashon</h1>
-<h3 align="center">Aspiring Health Data Scientist</h3>
+# Hi there, I'm Brashon👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brashonf&label=Profile%20views&color=0e75b6&style=flat" alt="brashonf" /> </p>
+## Data Scientist | AI Engineer | Machine Learning Enthusiast
 
-- 🔭 I’m currently working on **Database Management w/SQL, Microsoft Azure & Practice Datasets for Personal Projects.**
+I'm passionate about leveraging AI and data science to solve real-world problems. With a Master's in Data Science and an MBA, I bring a unique blend of technical expertise and business acumen to my projects.
 
-- 🌱 I’m currently obtaining **My Masters in Data Science with a Health Analytics concentration**
+### 🔭 I'm currently working on
+- Enhancing my skills in deep learning and generative AI
+- Exploring applications of AI in business decision-making
 
-- 👨‍💻 All of my projects are available at [GitHub.com/brashonf](GitHub.com/brashonf)
+### 🛠 Tech Stack
+- Languages: Python, R, SQL
+- ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn
+- Data Processing: Pandas, NumPy, PySpark
+- Visualization: Matplotlib, Plotly, Tableau
+- Cloud: AWS, GCP, Azure
+- Tools: Git, Docker, Jupyter Notebooks
 
-- 📫 How to reach me **brashonford@gmail.com/linkedin.com/brashon-ford**
+### 🌟 Featured Projects
+- [NYC Taxi Fare Prediction](https://github.com/brashonf/Deep-Learning-Projects)): Deep learning model to predict taxi fares
+- [AIDS Clinical Trial Analysis](https://github.com/brashonf/AIDSProject): Machine learning for medical research
+- [Smoking and Stroke Association Study](https://github.com/brashonf/SAS.projects): Statistical analysis in healthcare
 
-- ⚡ Fun fact **I love anime, and I just discovered fashion data science which is my new obsession**
+### 📫 How to reach me
+- LinkedIn: (https://www.linkedin.com/in/brashon-ford/)]
+- Email: brashonford@gmail.com
+- Portfolio: [Your Website]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brashon-ford" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brashon-ford" height="30" width="40" /></a>
-<a href="https://instagram.com/brashonf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brashonf" height="30" width="40" /></a>
-</p>
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
