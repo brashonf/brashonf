@@ -24,7 +24,6 @@ I'm passionate about leveraging AI and data science to solve real-world problems
 ### 📫 How to reach me
 - LinkedIn: (https://www.linkedin.com/in/brashon-ford/)]
 - Email: brashonford@gmail.com
-- Portfolio: [Your Website]
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
 
