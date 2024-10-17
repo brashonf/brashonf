@@ -1,22 +1,21 @@
-# Hi there, I'm Brashon👋
+# 👋 Hey, I'm Brashon!
+*Welcome to my world of data, health, and finance!*
 
-## Data Scientist | AI Engineer | Machine Learning Enthusiast
+### 👨‍💻 What I do
+I’m a Data Scientist (in training), passionate about finding hidden patterns and using insights to solve real-world problems in finance and healthcare.
 
-I'm passionate about leveraging AI and data science to solve real-world problems. With a Master's in Data Science and an MBA, I bring a unique blend of technical expertise and business acumen to my projects.
+### 📊 Current Projects
+- 📌 **Asthma & Geography Study**: Analyzing the correlation between asthma prevalence and geographical factors using advanced statistical models.
+- 💡 **Leukemia Remission Analysis**: Predicting remission times for leukemia patients using Kaplan-Meier curves.
 
-### 🔭 I'm currently working on
-- Enhancing my skills in deep learning and generative AI
-- Exploring applications of AI in business decision-making
+### 🚀 What’s next?
+I’m always working on something new. Right now, I’m diving into predictive mechanisms related to **Pinterest**, looking at the user journey through data!
 
-### 🛠 Tech Stack
-- Languages: Python, R, SQL
-- ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn
-- Data Processing: Pandas, NumPy, PySpark
-- Visualization: Matplotlib, Plotly, Tableau
-- Cloud: AWS, GCP, Azure
-- Tools: Git, Docker, Jupyter Notebooks
+Let’s connect or collaborate—whether it's for data science, health insights, or even Kaggle competitions!
 
-### 🌟 Featured Projects
+---
+*"I turn data into stories that matter."*
+
 - [NYC Taxi Fare Prediction](https://github.com/brashonf/Deep-Learning-Projects)): Deep learning model to predict taxi fares
 - [AIDS Clinical Trial Analysis](https://github.com/brashonf/AIDSProject): Machine learning for medical research
 - [Smoking and Stroke Association Study](https://github.com/brashonf/SAS.projects): Statistical analysis in healthcare
