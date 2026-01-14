@@ -5,8 +5,6 @@
 I’m a Data Scientist (in training), passionate about finding hidden patterns and using insights to solve real-world problems in finance and healthcare.
 
 ### 📊 Current Projects
-- 📌 **Asthma & Geography Study**: Analyzing the correlation between asthma prevalence and geographical factors using advanced statistical models.
-- 💡 **Leukemia Remission Analysis**: Predicting remission times for leukemia patients using Kaplan-Meier curves.
 
 ### 🚀 What’s next?
 I’m always working on something new. Right now, I’m diving into predictive mechanisms related to **Pinterest**, looking at the user journey through data!
